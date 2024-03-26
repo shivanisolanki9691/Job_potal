@@ -1,0 +1,2 @@
+module JobPotalsHelper
+end
